@@ -1,6 +1,8 @@
-<h3 align="left">## Hi there 👋<br><br><!--<br>- 🔭 I’m currently working on Web Backend <br>- 🌱 I’m currently learning Backend and system design<br>--><br><br><br><br><br>## About Me<br><br>Hi, I'm Md Tuhin 👋<br><br>I'm a student and a passionate learner who loves exploring how technology works under the hood. Currently, I'm focusing on **backend development**, learning tools and concepts that help build powerful and scalable systems.<br><br>I'm not just interested in writing code — I'm deeply curious about *how systems actually work*. Current Iam learning - node.js, C, C++, Java, JavaScript . My goal is to understand the core building blocks behind large-scale platforms.<br><br>In the future, I want to become a *system builder* — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.<br><br>Right now I'm on the journey of learning, experimenting, and improving every day 🚀</h3>
+<div align="center"><h2>About Me</h2> 👋<br><br><!--<br>- 🔭 I’m currently working on Web Backend <br>- 🌱 I’m currently learning Backend and system design<br>--><br><br><h1>Hi, I'm Md Tuhin</h1><br><br><p>I'm a student and a passionate learner who loves exploring how technology works under the hood. Currently, I'm focusing on **backend development**, learning tools and concepts that help build powerful and scalable systems.<br><br>I'm not just interested in writing code — I'm deeply curious about *how systems actually work*. Current Iam learning - node.js, C, C++, Java, JavaScript . My goal is to understand the core building blocks behind large-scale platforms.<br><br>In the future, I want to become a *system builder* — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.<br><br>Right now I'm on the journey of learning, experimenting, and improving every day 🚀</p></div>
+<br>
+<br>
+<br>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -50,11 +52,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuhincds/tuhincds/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/tuhincds/tuhincds/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="center">Contribute Graph</p>
 
