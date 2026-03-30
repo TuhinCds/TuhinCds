@@ -10,13 +10,13 @@
 
 ## About Me
 
-Hi, I'm **Md Tuhin** 👋
+Hi, I'm Md Tuhin 👋
 
 I'm a student and a passionate learner who loves exploring how technology works under the hood. Currently, I'm focusing on **backend development**, learning tools and concepts that help build powerful and scalable systems.
 
-I'm not just interested in writing code — I'm deeply curious about **how systems actually work**. That's why I'm learning things like **Node.js, file systems, streams, buffers, and server architecture**. My goal is to understand the core building blocks behind large-scale platforms.
+I'm not just interested in writing code — I'm deeply curious about *how systems actually work*. Current Iam learning - node.js, C, C++, Java, JavaScript . My goal is to understand the core building blocks behind large-scale platforms.
 
-In the future, I want to become a **system builder** — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.
+In the future, I want to become a *system builder* — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.
 
 Right now I'm on the journey of learning, experimenting, and improving every day 🚀
 
