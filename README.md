@@ -1,4 +1,4 @@
-<div align="center"><h2>About Me</h2> 👋<br><br><!--<br>- 🔭 I’m currently working on Web Backend <br>- 🌱 I’m currently learning Backend and system design<br>--><br><br><h1>Hi, I'm Md Tuhin</h1><br><br><p>I'm a student and a passionate learner who loves exploring how technology works under the hood. Currently, I'm focusing on **backend development**, learning tools and concepts that help build powerful and scalable systems.<br><br>I'm not just interested in writing code — I'm deeply curious about *how systems actually work*. Current Iam learning - node.js, C, C++, Java, JavaScript . My goal is to understand the core building blocks behind large-scale platforms.<br><br>In the future, I want to become a *system builder* — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.<br><br>Right now I'm on the journey of learning, experimenting, and improving every day 🚀</p></div>
+<div align="center"><!--<br>- 🔭 I’m currently working on Web Backend <br>- 🌱 I’m currently learning Backend and system design<br>--><h1>Hi, I'm Md Tuhin</h1><br><br><p>I'm a student and a passionate learner who loves exploring how technology works under the hood. Currently, I'm focusing on **backend development**, learning tools and concepts that help build powerful and scalable systems.<br><br>I'm not just interested in writing code — I'm deeply curious about *how systems actually work*. Current Iam learning - node.js, C, C++, Java, JavaScript . My goal is to understand the core building blocks behind large-scale platforms.<br><br>In the future, I want to become a *system builder* — someone who can design and build big systems like operating systems, large platforms, or complex infrastructure that power modern technology.<br><br>Right now I'm on the journey of learning, experimenting, and improving every day 🚀</p></div>
 <br>
 <br>
 <br>
@@ -49,7 +49,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuhincds/tuhincds/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuhincds/tuhincds/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuhincds/tuhincds/output/pacman-contribution-graph.svg">
 </picture>
 
 
@@ -62,38 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhincds&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h4 align="center">Profile</h4>
-
-###
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/201694110?v=4"  />
-</div>
-
-###
-
-<p align="center">Social</p>
-
-###
-
-<div align="center">
-  <a href="https://x.com/TRaja10056028" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="40" alt="whatsapp logo"  />
-  <a href="https://www.instagram.com/tuhinc18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/MdTuhin128" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=13&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
