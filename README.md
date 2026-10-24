@@ -52,15 +52,7 @@
 </picture>
 
 
-<p align="center">Contribute Graph</p>
-
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tuhincds&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhincds&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=13&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
